@@ -1,4 +1,4 @@
-# PAT
+# PAT - Personal Account Tracker
 
 # Credits:
        Free icons
